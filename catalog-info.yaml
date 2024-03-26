@@ -13,10 +13,9 @@ metadata:
       title: Backstage Sample App GitHub
       icon: code
   annotations:
-    jenkins.io/job-full-name: backstage-sample-app
     github.com/project-slug: 'tdurkut/backstage-sample-app'
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   lifecycle: experimental
-  owner: tdurkut
+  owner: guests
